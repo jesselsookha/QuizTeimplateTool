@@ -85,3 +85,12 @@ This tool is not affiliated with or officially supported by Brightspace/D2L. It 
 
 Released under the MIT License. Feel free to reuse, adapt, and enhance with credit.
 
+## 📚 References
+
+Dr. Jennifer Lynn Wagner. D2L Brightspace Tips: Sample Question Import CSV File. [online]. Available at: <https://jenniferlynnwagner.com/d2l-question-import.html> [Accessed 24 April 2025].
+
+D2L Knowledge, 2025. Import questions into the Question Library. [online]. Available at: <https://community.d2l.com/brightspace/kb/articles/3411-import-questions-into-the-question-library> [Accessed 1 May 2025].
+
+D2L Knowledge, 2025. Creating Question Library questions. [online]. Available at: <https://community.d2l.com/brightspace/kb/articles/3410-creating-question-library-questions> [Accessed 1 May 2025].
+
+OpenAI, 2025. ChatGPT – AI-powered assistance for development and documentation. [online]. Available at: <https://openai.com/chatgpt> [Accessed 5 May 2025].
