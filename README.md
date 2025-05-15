@@ -6,8 +6,8 @@ This Excel-based tool helps lecturers quickly create quiz question banks compati
 ### Author 
 [Jessel Sookha](https://github.com/jesselsookha)
 
+📥 **[Click here to download the Brightspace (Arc) Quiz Creation Workbook (Excel .xlsm)](https://github.com/jesselsookha/QuizTemplateTool/raw/refs/heads/main/QuizTemplatevTool.xlsm)**  
 ---
-
 ## 📘 Overview
 
 This workbook allows you to:
@@ -21,7 +21,7 @@ This workbook allows you to:
 
 ## 🚀 Getting Started
 
-1. **Download** the latest `.xlsm` file from this repository.
+1. **Download** the latest `.xlsm` file from this repository. **(link shared above)**
 2. **Enable Macros** when prompted (this is required for buttons to work).
 3. Open the workbook and go to the `empty` sheet.
 4. Click the large **"Add New Quiz Sheet"** button to begin creating your quiz.
